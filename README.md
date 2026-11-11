@@ -15,9 +15,6 @@ Bienvenido a la organización de desarrollo de **Herca Solutions** en GitHub. Aq
 
 Algunos de nuestros desarrollos se organizan en repositorios independientes. La visibilidad de cada repositorio depende de su finalidad y de las autorizaciones correspondientes.
 
-- [Módulo de facturación electrónica para Odoo](https://github.com/herca-git/herca_odoo_ecf) *(acceso restringido)*
-- [Plataforma e-CF](https://github.com/herca-git/herca_ecf) *(acceso restringido)*
-
 ## Forma de trabajo
 
 Buscamos que los cambios sean **revisables, documentados y reversibles**, y que la operación de servicios productivos se realice con controles de acceso, respaldos y procedimientos de recuperación.
